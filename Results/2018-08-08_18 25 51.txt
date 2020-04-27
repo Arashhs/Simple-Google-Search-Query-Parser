@@ -1,0 +1,29 @@
+Google Search Parser
+Searching for: پارس تامین
+
+Results:
+   1    https://pars-tamin.ir/                                                                                                                                    pars-tamin.ir   
+   2    https://pars-tamin.ir/parstamin-introduction.html                                                                                                         pars-tamin.ir   
+   3    http://pars-tamin.org/                                                                                                                                    pars-tamin.org  
+   4    http://pars-tamin.org/?lang=en                                                                                                                            pars-tamin.org  
+   5    http://pars-tamin.org/course/index.php?categoryid=3                                                                                                       pars-tamin.org  
+   6    https://jobinja.ir/companies/parstamin/jobs                                                                                                               jobinja.ir      
+   7    https://iranestekhdam.ir/%D8%A2%DA%AF%D9%87%DB%8C-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AA%D8%A7%D9%85%DB%8C%D9%86/    iranestekhdam.ir
+   8    https://www.e-estekhdam.com/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/    www.e-estekhdam.com
+   9    https://www.e-estekhdam.com/tag/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AA%D8%A7%D9%85%DB%8C%D9%86/    www.e-estekhdam.com
+  10    https://www.aparat.com/v/N7TIu/%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF_%D9%BE%D8%A7%D8%B1%D8%B3_%D8%AA%D8%A7%D9%85%DB%8C%D9%86_%D9%BE%D8%B1%D8%B4%DB%8C%D9%86    www.aparat.com  
+  11    https://karohadaf.com/company/pars_tamin                                                                                                                  karohadaf.com   
+  12    http://dastchin.ir/ad/pars_tamin_iman                                                                                                                     dastchin.ir     
+  13    http://www.tamin.co/                                                                                                                                      www.tamin.co    
+  14    https://www.webluxe.ir/portfolio/111-sample18.html                                                                                                        www.webluxe.ir  
+  15    https://www.kahkeshan.com/JobDepartmentDetail/9ad3a469-6afa-47e0-835d-fa416cfdcd8c/Home                                                                   www.kahkeshan.com
+  16    http://mehregantamin.com/fa/Contact                                                                                                                       mehregantamin.com
+  17    http://mehregantamin.com/                                                                                                                                 mehregantamin.com
+  18    https://kandoocn.com/index.php?newsid=89143                                                                                                               kandoocn.com    
+  19    http://www.estekhtam.com/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AA%D8%A7%D9%85%DB%8C%D9%86/     www.estekhtam.com
+  20    http://banki.ir/ba/Jobs/Vacancy/Index/752                                                                                                                 banki.ir        
+  21    https://ir.linkedin.com/in/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-5283b7166                                     ir.linkedin.com 
+  22    http://iranetp.com/%D9%86%D9%81%D8%AA-%DA%AF%D8%A7%D8%B2-%D9%88-%D8%A7%D9%86%D8%B1%DA%98%DB%8C/                                                           iranetp.com     
+  23    http://karbank.ir/job/35102                                                                                                                               karbank.ir      
+  24    http://www.ariatender.com/tender/client-25036.html                                                                                                        www.ariatender.com
+  25    http://www.iraninsurers.com/AgencyPage/id33008/%D8%A8%DB%8C%D9%85%D9%87-%DA%A9%D9%88%D8%AB%D8%B1-%D8%A7%D9%85%DB%8C%D8%AF-%DA%A9%D9%88%D8%AB%D8%B1-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D9%81%D9%86%D8%A7%D8%A6%DB%8C.html    www.iraninsurers.com

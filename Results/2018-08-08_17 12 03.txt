@@ -1,0 +1,15 @@
+2    https://physics.nist.gov/PhysRefData/Star/Text/PSTAR.html    physics.nist.gov
+4    https://physics.nist.gov/PhysRefData/Star/Text/intro.html    physics.nist.gov
+6    https://en.wikipedia.org/wiki/PSTAR    en.wikipedia.org
+8    https://en.wikipedia.org/wiki/P-Star    en.wikipedia.org
+10    https://pstar.ir/    pstar.ir
+12    http://www.flyingstart.ca/FlightTraining/PSTAR/PSTARIndex.htm    www.flyingstart.ca
+14    https://www.pololu.com/docs/0J62    www.pololu.com
+16    https://www.pololu.com/product/3150    www.pololu.com
+18    https://www.rdocumentation.org/packages/sna/versions/2.4/topics/pstar    www.rdocumentation.org
+20    https://www.tc.gc.ca/eng/civilaviation/publications/tp11919-menu-1135.htm    www.tc.gc.ca
+22    https://astrobiology.nasa.gov/research/astrobiology-at-nasa/pstar/    astrobiology.nasa.gov
+24    https://www.instagram.com/misspriscillastar/?hl=en    www.instagram.com
+26    http://www.autolineepstar.com/    www.autolineepstar.com
+28    https://steamcommunity.com/market/listings/753/583490-%3APstar%3A    steamcommunity.com
+30    http://scienceworld.wolfram.com/astronomy/PStar.html    scienceworld.wolfram.com
